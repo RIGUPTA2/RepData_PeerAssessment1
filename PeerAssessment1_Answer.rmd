@@ -1,0 +1,5 @@
+# Peer Review Assignment 1
+### Author: Rishi Gupta
+### Created on June, 2015
+This R markdown file answers the questions of peer assignment one for the Reproducible Research module, in the Data Science specialisation.  
+Firstly I will load the data, then aggregate the steps taken, by date and find the total number of steps taken per day.
